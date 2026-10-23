@@ -1,18 +1,6 @@
+
 {
-<<<<<<< HEAD
-  "name": "assect-card",
-  "version": "0.0.0",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "devDependencies": {
-    "vite": "^8.3.4"
-=======
-  "name": "invition-card-ff",
+  "name": "invitation-card",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -36,7 +24,6 @@
     "@vitejs/plugin-react": "^6.1.1",
     "oxlint": "^1.81.0",
     "typescript": "~6.0.2",
-    "vite": "^8.3.0"
->>>>>>> 01ea1f483898f267872c90b2ac70c51427428087
+    "vite": "^8.3.4"
   }
 }
